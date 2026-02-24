@@ -1,6 +1,6 @@
 # multiroblox-sdk
 
-
+⚠️ This is still not released. When [MultiRoblox Launcher](https://github.com/iigordev/multiroblox-launcher) releases with the 1.0 version, this SDK will be available.
 The MultiRoblox SDK is the Source Development Kit, that helps you create your own launcher for Roblox!
 *What does it come with?*
 
